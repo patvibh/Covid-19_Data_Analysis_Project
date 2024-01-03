@@ -1,4 +1,5 @@
-# Covid-19_Data_Analysis_Project
+# Unicorn Companies: Analyzing the Biggest ROI and Top Investors 
 
-In this project, I have conducted in-depth analysis of COVID-19 data using Python. By leveraging various libraries and techniques, this project offers valuable insights into pandemic patterns. This practical application demonstrates how Python can be utilized for data-driven decision-making and policy planning during global health crises.
+In this project, Leveraged Power BI to create dynamic and insightful visualizations for a project focused on analyzing unicorn companies. Developed interactive dashboards that effectively communicated key metrics, trends, and comparisons within the dynamic landscape of high-value startups. 
 
+<img width="1291" alt="Screenshot 2024-01-03 at 6 34 40 PM" src="https://github.com/patvibh/Covid-19_Data_Analysis_Project/assets/117330268/90bb44e4-ced8-4011-a2a9-bd4f21de346b">
