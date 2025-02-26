@@ -1,8 +1,11 @@
 #Download python(IDLE)
 
 #Steps to download Jupyter Notebook:
+
 #Jypiter Notebook 
+
 #Link of Original Project
+
 #need to install third party libraries:
 
 # Unicorn Companies: Analyzing the Biggest ROI and Top Investors 
