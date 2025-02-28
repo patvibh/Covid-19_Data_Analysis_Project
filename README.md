@@ -7,6 +7,17 @@ Install it by following the on-screen instructions.
 
 Open Terminal and Verify installation: python3 --version
 
+# Setting Up Python (IDLE) and Jupyter Notebook on macOS
+
+## 1. Download and Install Python (IDLE)
+Python comes pre-installed on macOS, but you may need a newer version.
+
+### Steps:
+1. Download Python from the official website: [Python.org](https://www.python.org/downloads/mac-osx/)
+2. Install it by following the on-screen instructions.
+3. Open Terminal and verify installation:
+   ```sh
+   python3 --version
 
 
 #Steps to download Jupyter Notebook:
