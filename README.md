@@ -25,29 +25,47 @@ You can install Jupyter using pip:
 
 ```sh
 
-# Getting Started
+pip install notebook
 
-## Download and Install Python (IDLE) on macOS
+# Setting Up Python (IDLE) and Jupyter Notebook on macOS
 
+## 1. Download and Install Python (IDLE)
 Python comes pre-installed on macOS, but you may need a newer version.
 
 ### Steps:
+1. Download Python from the official website: [Python.org](https://www.python.org/downloads/mac-osx/)
+2. Install it by following the on-screen instructions.
+3. Open Terminal and verify installation:
+   ```sh
+   python3 --version
 
-1. **Download Python**  
-   - Visit the official Python website: [Python.org](https://www.python.org/)
-   - Download the latest version of Python for macOS.
 
-2. **Install Python**  
-   - Open the downloaded file and follow the on-screen installation instructions.
+# README: Setting Up Jupyter Notebook on macOS
 
-3. **Verify Installation**  
-   - Open **Terminal** and run the following command:
-     ```sh
-     python3 --version
-     ```
-   - This should display the installed Python version.
+## Steps to Download Jupyter Notebook
+Jupyter Notebook is part of the Anaconda distribution or can be installed separately.
 
-Now, you have Python (IDLE) installed on your macOS system!
+### Steps:
+1. Install via pip:
+   ```sh
+   pip3 install notebook
+
+
+
+#Link to the Original Jupyter Project
+
+For official documentation and source code:
+
+Jupyter Project GitHub
+
+Jupyter Official Website
+
+
+
+#Install Third-Party Libraries: 
+For analyzing Unicorn Companies' ROI and Top Investors, install the following Python libraries:
+
+Open Terminal and code : pip3 install pandas numpy matplotlib seaborn
 
 
 
