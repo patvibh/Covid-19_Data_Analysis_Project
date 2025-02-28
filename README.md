@@ -8,6 +8,7 @@ For more information, refer to the official resources:
 
 - **Jupyter Project GitHub:** [Jupyter GitHub Repository]([https://github.com/jupyter](https://github.com/abhisarahuja/Covid-19-Data-Analysis-Project-Using-Python-And-Tableau)
 - **Jupyter Official Website:** [Jupyter.org](https://jupyter.org)
+- **Official Youtube Video:** [Youtube.com](https://www.youtube.com/watch?v=DJofs2JyIVM&t=3590s)
 
 ## Features
 
