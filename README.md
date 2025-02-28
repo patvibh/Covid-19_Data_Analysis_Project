@@ -52,16 +52,6 @@ Jupyter Notebook is part of the Anaconda distribution or can be installed separa
 
 
 
-#Link to the Original Jupyter Project
-
-For official documentation and source code:
-
-Jupyter Project GitHub
-
-Jupyter Official Website
-
-
-
 #Install Third-Party Libraries: 
 For analyzing Unicorn Companies' ROI and Top Investors, install the following Python libraries:
 
