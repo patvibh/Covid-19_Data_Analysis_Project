@@ -25,6 +25,32 @@ You can install Jupyter using pip:
 
 ```sh
 
+# Getting Started
+
+## Download and Install Python (IDLE) on macOS
+
+Python comes pre-installed on macOS, but you may need a newer version.
+
+### Steps:
+
+1. **Download Python**  
+   - Visit the official Python website: [Python.org](https://www.python.org/)
+   - Download the latest version of Python for macOS.
+
+2. **Install Python**  
+   - Open the downloaded file and follow the on-screen installation instructions.
+
+3. **Verify Installation**  
+   - Open **Terminal** and run the following command:
+     ```sh
+     python3 --version
+     ```
+   - This should display the installed Python version.
+
+Now, you have Python (IDLE) installed on your macOS system!
+
+
+
 # Unicorn Companies: Analyzing the Biggest ROI and Top Investors 
 
 In this project, Leveraged Power BI to create dynamic and insightful visualizations for a project focused on analyzing unicorn companies. Developed interactive dashboards that effectively communicated key metrics, trends, and comparisons within the dynamic landscape of high-value startups. 
