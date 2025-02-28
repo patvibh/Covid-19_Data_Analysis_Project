@@ -6,7 +6,7 @@ Jupyter is an open-source project that provides interactive computing environmen
 
 For more information, refer to the official resources:
 
-- **Jupyter Project GitHub:** [Jupyter GitHub Repository](https://github.com/jupyter)
+- **Jupyter Project GitHub:** [Jupyter GitHub Repository]([https://github.com/jupyter](https://github.com/abhisarahuja/Covid-19-Data-Analysis-Project-Using-Python-And-Tableau)
 - **Jupyter Official Website:** [Jupyter.org](https://jupyter.org)
 
 ## Features
@@ -23,48 +23,6 @@ For more information, refer to the official resources:
 You can install Jupyter using pip:
 
 ```sh
-pip install notebook
-
-
-# Setting Up Python (IDLE) and Jupyter Notebook on macOS
-
-## 1. Download and Install Python (IDLE)
-Python comes pre-installed on macOS, but you may need a newer version.
-
-### Steps:
-1. Download Python from the official website: [Python.org](https://www.python.org/downloads/mac-osx/)
-2. Install it by following the on-screen instructions.
-3. Open Terminal and verify installation:
-   ```sh
-   python3 --version
-
-
-# README: Setting Up Jupyter Notebook on macOS
-
-## Steps to Download Jupyter Notebook
-Jupyter Notebook is part of the Anaconda distribution or can be installed separately.
-
-### Steps:
-1. Install via pip:
-   ```sh
-   pip3 install notebook
-
-
-
-#Link to the Original Jupyter Project
-
-For official documentation and source code:
-
-Jupyter Project GitHub
-
-Jupyter Official Website
-
-
-
-#Install Third-Party Libraries: 
-For analyzing Unicorn Companies' ROI and Top Investors, install the following Python libraries:
-
-Open Terminal and code : pip3 install pandas numpy matplotlib seaborn
 
 # Unicorn Companies: Analyzing the Biggest ROI and Top Investors 
 
