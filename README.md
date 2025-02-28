@@ -1,12 +1,39 @@
 #Download python(IDLE)
+Python comes pre-installed on macOS, but you may need a newer version.
+
+Download Python from the official website: Python.org
+
+Install it by following the on-screen instructions.
+
+Open Terminal and Verify installation: python3 --version
+
+
 
 #Steps to download Jupyter Notebook:
+2. Install Jupyter Notebook
 
-#Jypiter Notebook 
+Jupyter Notebook is part of the Anaconda distribution or can be installed separately.
 
-#Link of Original Project
+Install via pip: pip3 install notebook
 
-#need to install third party libraries:
+Launch Jupyter Notebook: jupyter notebook
+
+
+
+#Link to the Original Jupyter Project
+
+For official documentation and source code:
+
+Jupyter Project GitHub
+
+Jupyter Official Website
+
+
+
+#Install Third-Party Libraries: 
+For analyzing Unicorn Companies' ROI and Top Investors, install the following Python libraries:
+
+Open Terminal and code : pip3 install pandas numpy matplotlib seaborn
 
 # Unicorn Companies: Analyzing the Biggest ROI and Top Investors 
 
